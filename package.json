@@ -53,6 +53,7 @@
     "react-signature-canvas": "^1.0.6",
     "reactjs-localstorage": "^1.0.1",
     "recharts": "^2.1.13",
+    "save-dev": "^0.0.1-security",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
